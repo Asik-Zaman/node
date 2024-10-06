@@ -1,0 +1,41 @@
+DB_HOST_v1="localhost"
+DB_USER_v1="root"
+DB_PASS_v1=""
+DB_DATABASE_v1="my_test"
+
+backend_url="http://localhost:3000"
+
+document_file_path_name = "/document"
+document_file_path = "public/upload/document/"
+
+image_path_name = "/image"
+image_path = "public/upload/image/"
+
+employee_image_path_name = "/employeeImage"
+employee_image_path = "public/upload/image/employee/"
+
+brand_image_path_name = "/brandImage"
+brand_image_path = "public/upload/image/brand/"
+
+category_image_path_name = "/categoryImage"
+category_image_path = "public/upload/image/category/"
+
+banner_image_path_name = "/bannerImage"
+banner_image_path = "public/upload/image/banner/"
+
+announcement_image_path_name = "/announcementImg"
+announcement_image_path = "public/upload/image/announcement/"
+
+seller_visit_attendance_path_name = "/sellerVisitAttendanceImg"
+seller_visit_attendance_path = "public/upload/image/sellerVisitAttendance/"
+
+
+tada_image_path_name = "/tadaImg"
+tada_image_path = "public/upload/image/tada/"
+
+gov_price_file_img_pdf_path_name = "/govPrice"
+gov_price_file_img_pdf_path = "public/upload/file_or_image/gov_price/"
+
+
+default_password ="123456"
+project_server_js_location_folder_name = "node"
